@@ -1,0 +1,36 @@
+ Flutter-related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+
+# Android-related
+# android/local.properties
+android/app/google-services.json
+.gradle/
+captures/
+**/build/
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+.idea/dictionaries
+.idea/libraries/
+.idea/modules.xml
+.idea/caches/
+.idea/runConfigurations.xml
+
+# iOS-related
+# ios/Flutter/Generated.xcconfig
+# ios/Flutter/flutter_export_environment.sh
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+
+# Symbolica
+.DS_Store
+/src/flutter/
+.env.
